@@ -269,6 +269,9 @@ Flutter | Backend | System Design
 
 # ⭐ Support
 
-If you find this useful, please **⭐ star the repository**.
+If you find this useful, please consider giving the repository a **⭐ star** — it really helps!
 
 ---
+
+📖 **Read the full step-by-step guide on Medium:**
+👉 [Connect with me on Medium](https://medium.com/@pankajram1101/slack-api-error-notification-using-node-js-a13fc2340c14?postPublishedType=repub&utm_source=chatgpt.com)
